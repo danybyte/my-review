@@ -6,7 +6,7 @@ After installing and signing up, the first thing that struck me was how familiar
 
 Diving into the AI Features
 Once I got past the shortcut intros, I headed straight for the "secret sauce": the AI Features. Since I was on the free tier, I used the Auto mode (which selects the best model for you). I noticed several modes available:
-
+ 
 Debug
 
 Ask
@@ -40,4 +40,5 @@ What happened: It did everything I asked it to do in the best way.
 Conclusion: It's mostly useful for someone who can afford to buy a subscription or can bypass the subscription.
 
 Date: February 11, 2026
+
 
