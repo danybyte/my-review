@@ -1,6 +1,6 @@
 ## IDE
 * **[Cursor](https://github.com/danybyte/my-review/blob/main/cursor.MD)**
-* 
+
 ---
 
 ## AI
